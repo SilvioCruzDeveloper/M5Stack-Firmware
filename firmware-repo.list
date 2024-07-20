@@ -1,2 +1,8 @@
-https://github.com/EeeeBin/UIFlow-Firmware
-https://github.com/lovyan03/LovyanLauncher-firmware
+{
+  "name": "Volos SpaceWars",
+  "description": "Jogo SpaceWars para Cardputer ",
+  "url": "https://github.com/SilvioCruzDeveloper/Cardputer/tree/main/SpaceWars/firmware/SpaceWars.ino.bin",
+  "category": "Games",
+  "author": "Silvio Cruz",
+  "version": "1.0.0"
+}
